@@ -9,9 +9,9 @@ ocw_type: CourseSection
 title: Readings
 uid: 2fa6acab-77fd-5508-2201-d4f807695021
 ---
-\[PV\] = Proctor, Robert W., and Trisha Van Zandt. *Human Factors in Simple and Complex Systems*. 2nd ed. CRC Press, 2008. ISBN: 9780805841190. \[Preview with {{% resource_link "4d5aead6-0936-407a-a070-52aa587b17f0" "Google Books" %}}\]
+\[PV\] = Proctor, Robert W., and Trisha Van Zandt. *Human Factors in Simple and Complex Systems*. 2nd ed. CRC Press, 2008. ISBN: 9780805841190. \[Preview with [Google Books](http://books.google.com/books?id=LfqDZ1VEmyoC&pg=PAfrontcover)\]
 
-\[DBL\] = Dismukes, R. Key, Benjamin A. Berman, and Loukia D. Loukopoulos. *The Limits of Expertise: Rethinking Pilot Error and the Causes of Airline Accidents*. Ashgate Publishing, 2007. ISBN: 9780754649656. \[Preview with \[Google Books\]({{% resource_link "1b721061-3230-4ef3-8690-5bb9d53d0a01" "http://books.google.com/books?id=mMxaYxhu0l0C&pg=PAfrontcover" %}}   
+\[DBL\] = Dismukes, R. Key, Benjamin A. Berman, and Loukia D. Loukopoulos. *The Limits of Expertise: Rethinking Pilot Error and the Causes of Airline Accidents*. Ashgate Publishing, 2007. ISBN: 9780754649656. \[Preview with \[Google Books\]([http://books.google.com/books?id=mMxaYxhu0l0C&pg=PAfrontcover](http://books.google.com/books?id=mMxaYxhu0l0C&pg=PAfrontcover)   
 )\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
@@ -29,7 +29,7 @@ Introduction and vision I
 {{< tdclose >}}{{< tdopen >}}
 Chapters 1, 4 and 5 in \[PV\].
 {{< tdclose >}}{{< tdopen >}}
-National Transport Safety Bureau. *Eastern Air Lines, Inc., L-1011, N310EA, Miami, Florida, December 29, 1972*. Report: AAR73-14, 1973. ({{% resource_link "fcf91896-df61-47c9-9cc7-ccfa9e412bc5" "PDF - 2.7MB" %}})
+National Transport Safety Bureau. *Eastern Air Lines, Inc., L-1011, N310EA, Miami, Florida, December 29, 1972*. Report: AAR73-14, 1973. ([PDF - 2.7MB](http://libraryonline.erau.edu/online-full-text/ntsb/aircraft-accident-reports/AAR73-14.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -43,7 +43,7 @@ Chapter 6 in \[PV\].
 {{< tdclose >}}{{< tdopen >}}
 Space bioastronautics
 {{< tdclose >}}{{< tdopen >}}
-Charles, John B., Maneesh Arya, and Craig E. Kundrot. "Use of International Space Station to Simulate Interplanetary Transit: Human Health and Performance Applicability of Current Increment Durations and Extended Durations." NASA, February 2011. ({{% resource_link "aea72595-9d6f-4dbf-a329-c215a3653324" "PDF" %}})
+Charles, John B., Maneesh Arya, and Craig E. Kundrot. "Use of International Space Station to Simulate Interplanetary Transit: Human Health and Performance Applicability of Current Increment Durations and Extended Durations." NASA, February 2011. ([PDF](https://web.archive.org/web/20111015025315/https://ston.jsc.nasa.gov/collections/trs/_techrep/TM-2011-216143.pdf))
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -69,7 +69,7 @@ Vestibular/spatial disorientation
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-National Transportation Safety Board. *NYC99MA178: Brief of Report*, 2000. ({{% resource_link "8a6b7a06-0e97-428c-8e7a-83e92bb626a6" "PDF" %}})
+National Transportation Safety Board. *NYC99MA178: Brief of Report*, 2000. ([PDF](http://libraryonline.erau.edu/online-full-text/ntsb/miscellaneous-reports/NYC99MA178a.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -78,7 +78,7 @@ Displays
 
 Chapter 8 in \[PV\].
 
-Chandra, Divya C., Michelle Yeh, Vic Riley, and Susan J. Mangold. Section 2.4 in *Human Factors Considerations in the Design and Evaluation of Electronic Flight Bags (EFBs)*. Version 2. U.S. Office of Aviation Research, September 2003. (choose 3–5 topics to read) ({{% resource_link "bcb7ca50-1571-4e0b-ae16-6cbe500684b6" "PDF - 3.4MB" %}})
+Chandra, Divya C., Michelle Yeh, Vic Riley, and Susan J. Mangold. Section 2.4 in *Human Factors Considerations in the Design and Evaluation of Electronic Flight Bags (EFBs)*. Version 2. U.S. Office of Aviation Research, September 2003. (choose 3–5 topics to read) ([PDF - 3.4MB](http://ntl.bts.gov/lib/34000/34200/34292/DOT-VNTSC-FAA-03-07.pdf))
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -89,7 +89,7 @@ Space human factors
 {{< tdclose >}}{{< tdopen >}}
 Hess, Ronald A. "Pilot Control." Chapter 8 in *Principles and Practice of Aviation Psychology*. Edited by Pamela S. Tsang and Michael A. Vidulich. CRC Press, 2002, pp. 265–300. ISBN: 9780805833904.
 {{< tdclose >}}{{< tdopen >}}
-Ellis, Stephen R. "{{% resource_link "a06d1a17-25d9-417c-97e7-6cc45e102778" "Collision in Space" %}}." *Ergonomics in Design* 8, no. 1 (2000): 4–9.
+Ellis, Stephen R. "[Collision in Space](http://www.ncbi.nlm.nih.gov/pubmed/12162316)." *Ergonomics in Design* 8, no. 1 (2000): 4–9.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -97,7 +97,7 @@ Manual control I
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Committee on the Effects of Aircraft-Pilot Coupling on Flight Safety. "Lockheed Martin/Boeing YF-22." Case 1 in *Aviation Safety and Pilot Control*. National Academies Press, 1997, pp. 55–9. ISBN: 9780309056885. \[Preview with {{% resource_link "0fe9c2c5-2ba1-4b5e-bdf5-92be90969c65" "Google Books" %}}\]
+Committee on the Effects of Aircraft-Pilot Coupling on Flight Safety. "Lockheed Martin/Boeing YF-22." Case 1 in *Aviation Safety and Pilot Control*. National Academies Press, 1997, pp. 55–9. ISBN: 9780309056885. \[Preview with [Google Books](http://books.google.com/books?id=w56Y9ayzq44C&pg=PA55=onepage)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -137,14 +137,14 @@ Auditory
 {{< tdclose >}}{{< tdopen >}}
 Chapter 7 in \[PV\].
 {{< tdclose >}}{{< tdopen >}}
-National Transportation Safety Board. *NW Airlines, Inc., Flights 1482 and 299 Runway Incursion and Collision Detroit Metropolitan/Wayne County Airport Romulus, Michigan, December 3, 1990*. Report: AAR91-05, 1990. ({{% resource_link "f3ee2b32-3e3d-423f-b457-21041e21729e" "PDF - 5.8MB" %}})
+National Transportation Safety Board. *NW Airlines, Inc., Flights 1482 and 299 Runway Incursion and Collision Detroit Metropolitan/Wayne County Airport Romulus, Michigan, December 3, 1990*. Report: AAR91-05, 1990. ([PDF - 5.8MB](http://libraryonline.erau.edu/online-full-text/ntsb/aircraft-accident-reports/AAR91-05.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
 Automaton, situation, awareness
 {{< tdclose >}}{{< tdopen >}}
 
-Billings, Charles E. "{{% resource_link "cdeb6687-e210-4995-8c90-25a9cf2df8b2" "Issues Concerning Human-Centered Intelligent Systems: What's \"Human-Centered\" and What's the Problem?" %}}" Talk by Charles Billings, 1997.
+Billings, Charles E. "[Issues Concerning Human-Centered Intelligent Systems: What's "Human-Centered" and What's the Problem?](https://web.archive.org/web/20151019020955/http://www.ifp.illinois.edu/nsfhcs/talks/billings.html)" Talk by Charles Billings, 1997.
 
 Endsley, Mica R. "Situation Awareness in Aviation Systems." Chapter 11 in *Handbook of Aviation Human Factors*. Edited by John A. Wise, V. David Hopkin, and Daniel J. Garland. Lawrence Erlbaum Associates, 1999. ISBN: 9780805816808.
 
@@ -155,9 +155,9 @@ Endsley, Mica R. "Situation Awareness in Aviation Systems." Chapter 11 in *Handb
 {{< tdclose >}}{{< tdopen >}}
 Flight deck automation working group
 {{< tdclose >}}{{< tdopen >}}
-*The Interfaces Between Flightcrews and Modern Flight Deck Systems*. Human Factors Team, Federal Aviation Administration, June 18, 1996. ({{% resource_link "f8aa01f2-ffd7-46ac-b8fe-f344ba8df48c" "PDF" %}})
+*The Interfaces Between Flightcrews and Modern Flight Deck Systems*. Human Factors Team, Federal Aviation Administration, June 18, 1996. ([PDF](http://www.tc.faa.gov/its/worldpac/techrpt/hffaces.pdf))
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "78439eb3-dc29-4f0f-8692-7a527b5e1fe0" "*Korean Air Lines Flight 007*" %}}. Wikipedia.
+[*Korean Air Lines Flight 007*](http://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007). Wikipedia.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
@@ -179,9 +179,9 @@ Chapter 9 in \[PV\].
 {{< tdclose >}}{{< tdopen >}}
 Fatigue/circadian rhythms
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "8e0d317e-55b4-4a8b-98f4-fe1758edfb90" "*The Effects of Commuting on Pilot Fatigue*" %}}. Committee on the Effects of Commuting on Pilot Fatigue, National Research Council, 2011.
+[*The Effects of Commuting on Pilot Fatigue*](http://www.nap.edu/catalog.php?record_id=13201). Committee on the Effects of Commuting on Pilot Fatigue, National Research Council, 2011.
 {{< tdclose >}}{{< tdopen >}}
-National Transporation Safety Board. *Controlled Flight into Terrain, Korean Air Flight 801*. Report: AAR00-01, 1997. ({{% resource_link "19e095e9-16e3-4ccd-825e-0997d042ee01" "PDF - 3.6MB" %}})
+National Transporation Safety Board. *Controlled Flight into Terrain, Korean Air Flight 801*. Report: AAR00-01, 1997. ([PDF - 3.6MB](http://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0001.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -203,7 +203,7 @@ Chapter 15 in \[PV\], pp. 341–59 and 367–82.
 {{< tdclose >}}{{< tdopen >}}
 Automobile HF
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "cd48c0a7-d8c8-444a-997c-1d7c2aa6df24" "*Driver Distraction: A Review of the Current State-of-Knowledge*" %}}. National Highway Traffic Safety Administration, Department of Transportation, April 2008.
+[*Driver Distraction: A Review of the Current State-of-Knowledge*](http://www.scribd.com/doc/12073978/Driver-Distraction-A-Review-of-the-Current-StateofKnowledge). National Highway Traffic Safety Administration, Department of Transportation, April 2008.
 {{< tdclose >}}{{< tdopen >}}
-National Transportation Safety Board. {{% resource_link "96d04a72-6ed2-4815-845d-a3c8c00c8c09" "*Ford Explorer Sport Collision with Ford Windstar Minivan and Jeep Grand Cherokee on Interstate 95/495 Near Largo, Maryland, February 1, 2002*" %}}. Report: HAR03-02, 2003.
+National Transportation Safety Board. [*Ford Explorer Sport Collision with Ford Windstar Minivan and Jeep Grand Cherokee on Interstate 95/495 Near Largo, Maryland, February 1, 2002*](http://www.ntsb.gov/investigations/AccidentReports/Pages/HAR0302.aspx). Report: HAR03-02, 2003.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
