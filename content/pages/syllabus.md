@@ -36,9 +36,9 @@ By the end of the course, students will be able to:
 Required Course Texts
 ---------------------
 
-Proctor, R. W., and T. Van Zandt. _Human Factors in Simple and Complex Systems_. 2nd ed. CRC Press, 2008. ISBN: 9780805841190. \[Preview with {{% resource_link "afd13cab-7db1-46e1-b174-3fbab549404f" "Google Books" %}}\]
+Proctor, R. W., and T. Van Zandt. _Human Factors in Simple and Complex Systems_. 2nd ed. CRC Press, 2008. ISBN: 9780805841190. \[Preview with [Google Books](http://books.google.com/books?id=LfqDZ1VEmyoC&pg=PAfrontcover#v=onepage)\]
 
-Dismukes, R. K., B. A. Berman, and L. D. Loukopoulous. _The Limits of Expertise: Rethinking Pilot Error and the Causes of Airline Accidents_. Ashgate Publishing, 2007. ISBN: 9780754649656. \[Preview with {{% resource_link "131e41a5-3270-4114-b740-54675bb710f0" "Google Books" %}}\]
+Dismukes, R. K., B. A. Berman, and L. D. Loukopoulous. _The Limits of Expertise: Rethinking Pilot Error and the Causes of Airline Accidents_. Ashgate Publishing, 2007. ISBN: 9780754649656. \[Preview with [Google Books](http://books.google.com/books?id=mMxaYxhu0l0C&pg=PAfrontcover#v=onepage)\]
 
 Bluman, A. G. _Elementary Statistics: A Step-by-Step Approach_. 5th ed. McGraw-Hill, 2004. ISBN: 9780072549072.
 
